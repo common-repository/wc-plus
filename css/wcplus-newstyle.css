@@ -1,0 +1,24 @@
+#toplevel_page_get-started-menu img {
+    width: 20px;
+    padding: 5px 0 0!important;
+}
+li#toplevel_page_get-started-menu:before {
+    content: "WOOCOMMERCE";
+    position: absolute;
+    top: -8px;
+    left: 10px;
+    color: #a8a8a8;
+    padding: 1px 5px;
+    border: 1px solid #a8a8a8;
+    line-height: normal;
+    font-size: 9px;
+    border-radius: 4px;
+    background: #1d2327;
+}
+li#toplevel_page_get-started-menu {
+    border-top: 1px solid #a8a8a8 !important;
+    border-bottom: 1px solid #a8a8a8 !important;
+    padding: 13px 0px 4px 0px;
+    position: relative !important;
+    margin-top: 10px;
+}
